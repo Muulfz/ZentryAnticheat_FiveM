@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZentryAnticheat.Client", "ZentryAnticheat.Client\ZentryAnticheat.Client.csproj", "{03D11BDF-DCD1-4787-A603-73CFCAD2717F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZentryAnticheat.Server", "ZentryAnticheat.Server\ZentryAnticheat.Server.csproj", "{C6E6A458-18B5-4FE2-AC33-3941C735908D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Fivem Compiller|Any CPU = Fivem Compiller|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Fivem Compiller|Any CPU.ActiveCfg = Fivem Compiller|Any CPU
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Fivem Compiller|Any CPU.Build.0 = Fivem Compiller|Any CPU
+		{03D11BDF-DCD1-4787-A603-73CFCAD2717F}.Fivem Compiller|Any CPU.Deploy.0 = Fivem Compiller|Any CPU
+		{C6E6A458-18B5-4FE2-AC33-3941C735908D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E6A458-18B5-4FE2-AC33-3941C735908D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E6A458-18B5-4FE2-AC33-3941C735908D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E6A458-18B5-4FE2-AC33-3941C735908D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E6A458-18B5-4FE2-AC33-3941C735908D}.Fivem Compiller|Any CPU.ActiveCfg = Fivem Compiller|Any CPU
+		{C6E6A458-18B5-4FE2-AC33-3941C735908D}.Fivem Compiller|Any CPU.Build.0 = Fivem Compiller|Any CPU
+	EndGlobalSection
+EndGlobal
