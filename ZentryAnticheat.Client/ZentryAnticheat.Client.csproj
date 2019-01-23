@@ -45,8 +45,12 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Controller\PedManager.cs" />
+        <Compile Include="Controller\PropManager.cs" />
+        <Compile Include="Controller\VehicleManager.cs" />
         <Compile Include="Main.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Scans\ScanEntitys.cs" />
+        <Compile Include="Scans\ScanEnum.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

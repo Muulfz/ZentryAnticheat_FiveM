@@ -13,7 +13,7 @@ namespace ZentryAnticheat.Server
 
         private async Task OnTick()
         {
-            BaseScript.TriggerClientEvent("scanPeds");
+            BaseScript.TriggerClientEvent("scanEntitys");
             await BaseScript.Delay(500);
         }
     }
